@@ -1,0 +1,70 @@
+/*div {
+    border: solid 1px red;
+}*/
+
+h3{
+    text-align: center;
+    color: purple;
+    
+}
+
+body{
+    background-image: url(../images/background.jpg);
+}
+
+p{
+    text-align: center;
+    color: purple;
+    padding-top: 20px;
+}
+
+img {
+    width: 268px;
+    border: solid 5px purple;
+    height: 200px;
+}
+
+
+.jumbotron{
+    background-color: purple;
+}
+
+.display-4{
+    color: Purple;
+}
+
+.color{
+    background-color: purple;
+}
+
+.center{
+    padding-top: 20px;
+}
+
+
+#instruction{
+    background-color: paleturquoise;
+    border: solid 5px purple;
+}
+
+#color{
+    background-color: paleturquoise;
+}
+
+#score{
+    background-color: paleturquoise;
+}
+
+#subhead{
+    margin-top: 120px;
+    background-color: paleturquoise;
+    border: solid 5px purple;
+}
+
+#tracker{
+    border: solid 5px purple;
+}
+
+#wins{
+    text-align: center;
+}
